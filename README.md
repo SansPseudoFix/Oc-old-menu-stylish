@@ -28,4 +28,4 @@ Before :
 
 After :
 
-![old menu](http://sanspseudofix.fr/wp-content/uploads/2014/09/oc_old_menu2.png)
+![old menu](https://lut.im/AQcZIM8e/UMkf2crE)
