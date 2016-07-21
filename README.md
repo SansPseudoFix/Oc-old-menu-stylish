@@ -1,3 +1,6 @@
+**This repo is outdated, please use [IzzySoft's fork](https://github.com/IzzySoft/Oc-old-menu-stylish) instead.**
+---
+
 Oc-old-menu-stylish
 ===================
 
