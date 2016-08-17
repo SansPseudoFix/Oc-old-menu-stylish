@@ -1,4 +1,4 @@
-**This repo is outdated, please use [IzzySoft's fork](https://github.com/IzzySoft/Oc-old-menu-stylish) instead.**
+**This repo is outdated, please use [IzzySoft's fork](https://github.com/IzzySoft/Oc-old-menu-stylish) instead or his [userstyles.org repo](https://userstyles.org/styles/131444/oc-old-menu-stylish).**
 ---
 
 Oc-old-menu-stylish
